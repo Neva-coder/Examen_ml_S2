@@ -72,7 +72,7 @@ Classification binaire, Annulation hôtelière, Validation temporelle, F1-score,
 - **requirements.txt** : dépendances nécessaires à la reproduction du projet.
 
 **🔗 Liens utiles :**
-- [**LIEN VERS LA VIDÉO DE PRÉSENTATION** — Google Drive ou YouTube](https://onedrive.live.com/?id=30208FC17CBD04C6%21s940719e7cf174cf89bc10a662d31e418&cid=30208FC17CBD04C6&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy8zMDIwOEZDMTdDQkQwNEM2L0lnRG5HUWVVRjhfNFRKdkJDbVl0TWVRWUFReDZTbnpWZ1Q5QmZIS3JXRWRfZTFZ)
+- [**LIEN VERS LA VIDÉO DE PRÉSENTATION** — Google Drive](https://onedrive.live.com/?id=30208FC17CBD04C6%21s940719e7cf174cf89bc10a662d31e418&cid=30208FC17CBD04C6&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy8zMDIwOEZDMTdDQkQwNEM2L0lnRG5HUWVVRjhfNFRKdkJDbVl0TWVRWUFReDZTbnpWZ1Q5QmZIS3JXRWRfZTFZ)
 - [**Lien vers le dépôt GitHub**](https://github.com/Neva-coder/Examen_ml_S2)
 
 ---
